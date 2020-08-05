@@ -1,1 +1,17 @@
-# mitsuki-doc
+
+
+
+
+
+
+
+## Commands
+
+Commands are designed in a way that allows them to be used in the middle of a normal message. 
+Simply wrap the name of an anime or manga in `{}` and prefix that with a command name.
+
+eg: a{Naruto} will search for the Naruto anime.
+
+To search for anime, use `a` or `anime` as your prefix. To search for manga, use `m` or `manga` as your prefix.
+
+![Example Usage](https://i.imgur.com/B6y57vl.png)
