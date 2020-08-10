@@ -16,4 +16,4 @@ a{Anime Name} m{Manga Name}
 
 u{User Name} c{Character Name}
 
-![Example Usage](https://i.imgur.com/B6y57vl.png)
+![Example Usage](https://i.imgur.com/4dp1zDO.gif)
