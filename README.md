@@ -11,5 +11,5 @@ eg: a{Naruto} will search for the Naruto anime.
 
 ![Example Usage](https://i.imgur.com/4dp1zDO.gif)
 
-# a{Anime Name}
+## a{Anime Name}
 ![Example Usage](https://i.imgur.com/n8W9sjF.png)
