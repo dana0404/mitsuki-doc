@@ -12,13 +12,8 @@ Simply wrap the name of an anime or manga in `{}` and prefix that with a command
 
 eg: a{Naruto} will search for the Naruto anime.
 
-a{Anime Name}
+a{Anime Name} m{Manga Name}
 
-m{Manga Name}
-
-u{USer Name}
-
-c{Character Name}
-
+u{User Name} c{Character Name}
 
 ![Example Usage](https://i.imgur.com/B6y57vl.png)
