@@ -14,3 +14,9 @@ u{User Name} c{Character Name}
 
 ## m{Manga Name}
 ![Example Usage](https://i.imgur.com/kTABDsW.png)
+
+## u{User Name}
+![Example Usage](https://i.imgur.com/jbDED7Q.png)
+
+## c{Character Name}
+![Example Usage](https://i.imgur.com/0qWhXhw.png)
