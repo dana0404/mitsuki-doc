@@ -1,1 +1,1 @@
-![Example Usage](https://i.imgur.com/VGfRyJZ.png)
+![Example Usage](https://i.imgur.com/YiULdHh.png)
